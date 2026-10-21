@@ -1,0 +1,15 @@
+{
+  "name": "ich-324-p04-pmo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ich-324-p04-pmo"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
